@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319870014697",
+    "project_id": "ypasar-c080f",
+    "storage_bucket": "ypasar-c080f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319870014697:android:f5155adb8fbe5410748c78",
+        "android_client_info": {
+          "package_name": "com.example.ypasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319870014697-c4kh1chb066vmlt5otjmjgn4g9u4shp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwjzg0Pt-13RHLxc5Gu9urGWi_wh4Mjmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319870014697-c4kh1chb066vmlt5otjmjgn4g9u4shp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
